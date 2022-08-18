@@ -1,0 +1,130 @@
+*{
+    width: 50%;
+    height: 50%;
+    margin: 0;
+    
+    
+}
+
+
+
+
+.container{
+    background-image: url(image/palm.jpg);
+    background-size: cover;
+    height: 640px;
+    width: 300px;
+    position: absolute;
+    
+    
+    
+}
+
+.container-2{
+position: absolute;
+width: 150px;
+
+margin-left: 400px;
+
+height: 10px;
+}
+
+    
+
+p{
+    width: 600px;
+    margin-top: 40px;
+}
+
+
+.container-2{
+    display: inline;
+    height: 100px;
+
+}
+
+
+
+    
+
+input{
+    width:180px;
+    height: 15px;
+}
+
+.form{
+    display: flex;
+}
+
+
+.form-2{
+    margin-left: 240px;
+    width: 130px;
+    display: grid;
+}
+
+label{
+    
+    font-size: small;
+    display: block;
+    height: 30px;
+}
+
+input{
+    
+    width: 220px;
+    height: 25px;
+
+}
+
+
+
+    
+button{
+    margin-top: 200px;
+    width: 10vw;
+    height: 35px;
+    margin-left: 0px;
+    position: absolute
+    
+    
+}
+email{
+margin-bottom: 0;
+}
+
+.form{
+    background-color:  white;
+    font-weight: bold;
+    
+}
+    
+
+
+#lname{
+    border: 1px solid blue;
+}
+
+
+#password{
+    border: 1px solid red;
+}
+
+.cpassword{
+    border: 1px solid red;
+}
+button{
+    color:white;
+    background-color: green;
+}
+.container,input{
+    box-shadow: 2px 2px 4px rgba(0,0,0, 0.5),
+    -2px -2px 4px rgba(128, 120, 64, 0.5);
+}
+
+
+
+
+small{
+    color: brown;
+}
